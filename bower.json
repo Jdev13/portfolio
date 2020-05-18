@@ -1,0 +1,21 @@
+{
+  "name": "index",
+  "homepage": "https://github.com/Jdev13/portfolio",
+  "authors": [
+    "Jesiel Marlon da Rosa <jemarlon04@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
